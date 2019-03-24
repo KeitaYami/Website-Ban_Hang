@@ -1,0 +1,22 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+
+ADMIN LOGIN:
+
+Username: admin@admin.com
+Password: 123456
+
+USER LOGIN:
+
+Username: dung@gmail.com
+Password: 123456
+
+USER LOGIN 2:
+Username: tri@gmail.com
+Password: 123456
+
+
+File database inside folder database
+Create "ecomm"  database in phpadmin then import :3
+
+
+
